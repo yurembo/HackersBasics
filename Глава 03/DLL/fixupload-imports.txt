@@ -1,0 +1,89 @@
+Microsoft (R) COFF/PE Dumper Version 14.33.31629.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file fixupload.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Section contains the following imports:
+
+    KERNEL32.dll
+                40D000 Import Address Table
+                412404 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                  2B1 GetProcAddress
+                  3C5 LoadLibraryA
+                  44F QueryPerformanceCounter
+                  21B GetCurrentProcessId
+                  21F GetCurrentThreadId
+                  2EC GetSystemTimeAsFileTime
+                  366 InitializeSListHead
+                  382 IsDebuggerPresent
+                  5B1 UnhandledExceptionFilter
+                  571 SetUnhandledExceptionFilter
+                  2D3 GetStartupInfoW
+                  389 IsProcessorFeaturePresent
+                  27B GetModuleHandleW
+                  21A GetCurrentProcess
+                  590 TerminateProcess
+                  615 WriteConsoleW
+                  4D5 RtlUnwind
+                  264 GetLastError
+                  534 SetLastError
+                  134 EnterCriticalSection
+                  3C1 LeaveCriticalSection
+                  113 DeleteCriticalSection
+                  362 InitializeCriticalSectionAndSpinCount
+                  5A2 TlsAlloc
+                  5A4 TlsGetValue
+                  5A5 TlsSetValue
+                  5A3 TlsFree
+                  1AE FreeLibrary
+                  3C7 LoadLibraryExW
+                  464 RaiseException
+                  2D5 GetStdHandle
+                  616 WriteFile
+                  277 GetModuleFileNameW
+                  161 ExitProcess
+                  27A GetModuleHandleExW
+                  1D9 GetCommandLineA
+                  1DA GetCommandLineW
+                  348 HeapAlloc
+                  34C HeapFree
+                  178 FindClose
+                  17E FindFirstFileExW
+                  18F FindNextFileW
+                  38F IsValidCodePage
+                  1B5 GetACP
+                  29A GetOEMCP
+                  1C4 GetCPInfo
+                  3F3 MultiByteToWideChar
+                  602 WideCharToMultiByte
+                  23A GetEnvironmentStringsW
+                  1AD FreeEnvironmentStringsW
+                  516 SetEnvironmentVariableW
+                  54E SetStdHandle
+                  251 GetFileType
+                  2DA GetStringTypeW
+                   9E CompareStringW
+                  3B5 LCMapStringW
+                  2B7 GetProcessHeap
+                  351 HeapSize
+                  34F HeapReAlloc
+                  1A2 FlushFileBuffers
+                  203 GetConsoleOutputCP
+                  1FF GetConsoleMode
+                  525 SetFilePointerEx
+                   CE CreateFileW
+                   89 CloseHandle
+                  10C DecodePointer
+
+  Summary
+
+        2000 .data
+        6000 .rdata
+        1000 .reloc
+        C000 .text

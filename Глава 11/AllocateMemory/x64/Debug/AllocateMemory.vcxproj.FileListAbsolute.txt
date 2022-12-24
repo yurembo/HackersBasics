@@ -1,0 +1,2 @@
+D:\yurem\Xakep-source\11\AllocateMemory\x64\Debug\AllocateMemory.exe
+D:\yurem\Xakep-source\11\AllocateMemory\x64\Debug\AllocateMemory.pdb

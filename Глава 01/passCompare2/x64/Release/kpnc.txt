@@ -1,0 +1,28 @@
+Microsoft (R) COFF/PE Dumper Version 14.33.31629.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file passCompare2.exe
+
+File Type: EXECUTABLE IMAGE
+
+SECTION HEADER #5
+   .kpnc name
+      10 virtual size
+    5000 virtual address (0000000140005000 to 000000014000500F)
+     200 size of raw data
+    2800 file pointer to raw data (00002800 to 000029FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0000040 flags
+         Initialized Data
+         Read Write
+
+RAW DATA #5
+  0000000140005000: 6D 79 47 4F 4F 44 70 61 73 73 77 6F 72 64 0A 00  myGOODpassword..
+
+  Summary
+
+        1000 .kpnc

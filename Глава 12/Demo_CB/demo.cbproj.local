@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.12.20 01:49:26.756,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.12.20 01:49:28.079,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.12.20 01:51:26.675,C:\Users\yurembo\source\repos\Xakep\Demo\File1.cpp=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.12.20 01:51:33.017,C:\Users\yurembo\source\repos\Xakep\Demo\Project1PCH1.h=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.12.20 01:51:39.601,C:\Users\yurembo\source\repos\Xakep\Demo\demoPCH1.h=C:\Users\yurembo\source\repos\Xakep\Demo\Project1PCH1.h</Transaction>
+    <Transaction>2020.12.20 01:51:39.617,C:\Users\yurembo\source\repos\Xakep\Demo\demo.cbproj=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

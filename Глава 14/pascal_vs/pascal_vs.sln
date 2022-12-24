@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pascal_vs", "pascal_vs.vcxproj", "{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Debug|x64.ActiveCfg = Debug|x64
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Debug|x64.Build.0 = Debug|x64
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Debug|x86.ActiveCfg = Debug|Win32
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Debug|x86.Build.0 = Debug|Win32
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Release|x64.ActiveCfg = Release|x64
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Release|x64.Build.0 = Release|x64
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Release|x86.ActiveCfg = Release|Win32
+		{F94A6A88-1C8D-4909-BB51-3C4F3549BB16}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF5DF48-7823-4299-8696-47398C18F16E}
+	EndGlobalSection
+EndGlobal

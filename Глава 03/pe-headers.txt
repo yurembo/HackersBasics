@@ -1,0 +1,171 @@
+Microsoft (R) COFF/PE Dumper Version 14.33.31629.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file passcompare1.exe
+
+PE signature found
+
+File Type: EXECUTABLE IMAGE
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               6 number of sections
+        6390F9DF time date stamp Thu Dec  8 01:38:55 2022
+               0 file pointer to symbol table
+               0 number of symbols
+              F0 size of optional header
+              22 characteristics
+                   Executable
+                   Application can handle large (>2GB) addresses
+
+OPTIONAL HEADER VALUES
+             20B magic # (PE32+)
+           14.33 linker version
+            1000 size of code
+            2000 size of initialized data
+               0 size of uninitialized data
+            13E0 entry point (00000001400013E0) mainCRTStartup
+            1000 base of code
+       140000000 image base (0000000140000000 to 0000000140007FFF)
+            1000 section alignment
+             200 file alignment
+            6.00 operating system version
+            0.00 image version
+            6.00 subsystem version
+               0 Win32 version
+            8000 size of image
+             400 size of headers
+               0 checksum
+               3 subsystem (Windows CUI)
+            8160 DLL characteristics
+                   High Entropy Virtual Addresses
+                   Dynamic base
+                   NX compatible
+                   Terminal Server Aware
+          100000 size of stack reserve
+            1000 size of stack commit
+          100000 size of heap reserve
+            1000 size of heap commit
+               0 loader flags
+              10 number of directories
+               0 [       0] RVA [size] of Export Directory
+            291C [      B4] RVA [size] of Import Directory
+            6000 [     1E0] RVA [size] of Resource Directory
+            5000 [     18C] RVA [size] of Exception Directory
+               0 [       0] RVA [size] of Certificates Directory
+            7000 [      30] RVA [size] of Base Relocation Directory
+            23F0 [      70] RVA [size] of Debug Directory
+               0 [       0] RVA [size] of Architecture Directory
+               0 [       0] RVA [size] of Global Pointer Directory
+               0 [       0] RVA [size] of Thread Storage Directory
+            22B0 [     140] RVA [size] of Load Configuration Directory
+               0 [       0] RVA [size] of Bound Import Directory
+            2000 [     1B8] RVA [size] of Import Address Table Directory
+               0 [       0] RVA [size] of Delay Import Directory
+               0 [       0] RVA [size] of COM Descriptor Directory
+               0 [       0] RVA [size] of Reserved Directory
+
+
+SECTION HEADER #1
+   .text name
+     ECC virtual size
+    1000 virtual address (0000000140001000 to 0000000140001ECB)
+    1000 size of raw data
+     400 file pointer to raw data (00000400 to 000013FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+60000020 flags
+         Code
+         Execute Read
+
+SECTION HEADER #2
+  .rdata name
+    101C virtual size
+    2000 virtual address (0000000140002000 to 000000014000301B)
+    1200 size of raw data
+    1400 file pointer to raw data (00001400 to 000025FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+  Debug Directories
+
+        Time Type        Size      RVA  Pointer
+    -------- ------- -------- -------- --------
+    6390F9DF cv            8C 000024DC     18DC    Format: RSDS, {5337566E-1D3D-4287-A325-E9F17F61017A}, 1, D:\yurem\YandexDisk\Хакер-книга (165х235)\Глава_01\source\passCompare1\x64\Release\passCompare1.pdb
+    6390F9DF feat          14 00002568     1968    Counts: Pre-VC++ 11.00=0, C/C++=30, /GS=30, /sdl=1, guardN=29
+    6390F9DF coffgrp      284 0000257C     197C    4C544347 (LTCG)
+    6390F9DF iltcg          0 00000000        0
+
+SECTION HEADER #3
+   .data name
+     638 virtual size
+    4000 virtual address (0000000140004000 to 0000000140004637)
+     200 size of raw data
+    2600 file pointer to raw data (00002600 to 000027FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0000040 flags
+         Initialized Data
+         Read Write
+
+SECTION HEADER #4
+  .pdata name
+     18C virtual size
+    5000 virtual address (0000000140005000 to 000000014000518B)
+     200 size of raw data
+    2800 file pointer to raw data (00002800 to 000029FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+SECTION HEADER #5
+   .rsrc name
+     1E0 virtual size
+    6000 virtual address (0000000140006000 to 00000001400061DF)
+     200 size of raw data
+    2A00 file pointer to raw data (00002A00 to 00002BFF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+SECTION HEADER #6
+  .reloc name
+      30 virtual size
+    7000 virtual address (0000000140007000 to 000000014000702F)
+     200 size of raw data
+    2C00 file pointer to raw data (00002C00 to 00002DFF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42000040 flags
+         Initialized Data
+         Discardable
+         Read Only
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

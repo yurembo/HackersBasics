@@ -1,0 +1,1 @@
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\return_heap_val\x64\Release\return_heap_val.exe

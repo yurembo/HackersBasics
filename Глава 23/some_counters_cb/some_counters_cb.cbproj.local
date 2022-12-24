@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.06.15 13:27:37.764,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.06.15 13:27:42.949,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2022.06.15 13:29:34.585,C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_23\Samples\some_counters_cb\cod1.cpp=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2022.06.15 13:30:25.051,C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_23\Samples\some_counters_cb\some_counters_PCH1.h=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.06.15 13:30:45.669,C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_23\Samples\some_counters_cb\some_counters_cb.cbproj=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

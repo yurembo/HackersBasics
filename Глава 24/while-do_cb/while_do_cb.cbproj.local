@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.597,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_24\Samples\while-do_cb\cod1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.467,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_24\Samples\while-do_cb\while_do_cb.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_24\Samples\while-do_cb\head-cod1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\yurembo\iCloudDrive\Desktop\fastcall_4_args_cb\fastcall_4_args_cb.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\yurembo\iCloudDrive\Desktop\fastcall_4_args_cb\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Users\yurembo\iCloudDrive\Desktop\fastcall_4_args_cb\Project1PCH1.h=C:\Users\yurembo\iCloudDrive\Desktop\fastcall_4_args_cb\fastcall_4_args_cbPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\yurembo\iCloudDrive\Desktop\fastcall_4_args_cb\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

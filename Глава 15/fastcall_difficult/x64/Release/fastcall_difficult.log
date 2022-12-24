@@ -1,0 +1,9 @@
+﻿  fastcall_difficult.cpp
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\fastcall_difficult\fastcall_difficult.cpp(14,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\fastcall_difficult\fastcall_difficult.cpp(14,57): warning C4267: аргумент: преобразование из "size_t" в "char"; возможна потеря данных
+  Создание кода
+  5 of 5 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  fastcall_difficult.vcxproj -> D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\fastcall_difficult\x64\Release\fastcall_difficult.exe

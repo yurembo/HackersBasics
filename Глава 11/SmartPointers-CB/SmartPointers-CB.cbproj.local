@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.11.11 14:06:39.162,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.11.11 14:06:43.078,=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.11.11 14:09:16.556,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\SmartPointers-CB\File1.cpp=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.11.11 14:09:26.702,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\SmartPointers-CB\Project1PCH1.h=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.11.11 14:09:36.036,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\SmartPointers-CB\SmartPointers-CBPCH1.h=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\SmartPointers-CB\Project1PCH1.h</Transaction>
+    <Transaction>2020.11.11 14:09:36.045,C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\SmartPointers-CB\SmartPointers-CB.cbproj=C:\Users\yurembo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

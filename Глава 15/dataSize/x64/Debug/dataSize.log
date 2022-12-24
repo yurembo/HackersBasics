@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\yurem\Documents\Visual Studio 2019\Projects\dataSize\Source.cpp(5,2): error C2653: stt: не является именем класса или пространства имен
+D:\yurem\Documents\Visual Studio 2019\Projects\dataSize\Source.cpp(5,7): error C2065: cout: необъявленный идентификатор

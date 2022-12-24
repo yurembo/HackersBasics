@@ -1,0 +1,17 @@
+Microsoft (R) COFF/PE Dumper Version 14.33.31629.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file passCompare2.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Summary
+
+        1000 .data
+        1000 .kpnc
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

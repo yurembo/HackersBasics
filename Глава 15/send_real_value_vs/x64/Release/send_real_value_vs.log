@@ -1,0 +1,8 @@
+﻿  send_real_value_vs.cpp
+d:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\send_real_value_vs\send_real_value_vs.cpp(8,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+d:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\send_real_value_vs\send_real_value_vs.cpp(13,37): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  send_real_value_vs.vcxproj -> D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_15\samples\send_real_value_vs\x64\Release\send_real_value_vs.exe

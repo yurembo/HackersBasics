@@ -1,0 +1,6 @@
+﻿  pascal_vs.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  pascal_vs.vcxproj -> D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_14-new\samples\pascal_vs\Release\pascal_vs.exe

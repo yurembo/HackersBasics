@@ -1,0 +1,7 @@
+﻿  naked_func_vc.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(36): warning C4731: main: регистр указателя фрейма "ebp" изменен встроенным кодом на языке ассемблера
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  naked_func_vc.vcxproj -> D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\Release\naked_func_vc.exe

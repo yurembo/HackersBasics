@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.964,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_20\Samples\float_compare_cb\float_compare_cb.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_20\Samples\float_compare_cb\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_20\Samples\float_compare_cb\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_20\Samples\float_compare_cb\Project1PCH1.h=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_20\Samples\float_compare_cb\float_compare_cbPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

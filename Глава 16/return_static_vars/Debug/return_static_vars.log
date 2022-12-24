@@ -1,0 +1,4 @@
+﻿  return_static_vars.cpp
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\return_static_vars\return_static_vars.cpp(9,81): error C2117: x: переполнение границ массива
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\return_static_vars\return_static_vars.cpp(8): message : см. объявление "x"
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\return_static_vars\return_static_vars.cpp(8,14): error C2078: слишком много инициализаторов

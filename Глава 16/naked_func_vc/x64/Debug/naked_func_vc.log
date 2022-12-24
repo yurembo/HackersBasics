@@ -1,0 +1,11 @@
+﻿  naked_func_vc.cpp
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(6,12): error C2485: naked: неизвестный расширенный атрибут
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(8,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,3): error C2065: lea: необъявленный идентификатор
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebp"
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,7): error C2065: ebp: необъявленный идентификатор
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,16): error C2143: синтаксическая ошибка: отсутствие "]" перед "+"
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,16): error C3481: eax: передаваемая переменная в лямбда-выражении не найдена
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(10,16): error C3260: "+": пропускаются непредвиденные токены перед телом лямбда-функции
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(23,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_16\Samples\naked_func_vc\naked_func_vc.cpp(40,1): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции

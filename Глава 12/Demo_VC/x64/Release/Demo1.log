@@ -1,0 +1,3 @@
+﻿  Demo1.cpp
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  Demo1.vcxproj -> C:\Users\yurembo\source\repos\Xakep\Demo1\x64\Release\Demo1.exe

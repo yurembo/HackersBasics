@@ -1,0 +1,9 @@
+﻿  local_vars_identified.cpp
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_17\samples\local_vars_identified\local_vars_identified.cpp(30,9): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "int *"
+D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_17\samples\local_vars_identified\local_vars_identified.cpp(30,9): warning C4313: printf: конфликт "%x" в строке формата с аргументом 1 типа "int *"
+  Создание кода
+  0 of 5 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  local_vars_identified.vcxproj -> D:\yurem\OneDrive\Документы\Хакер\Хакер_Крис_17\samples\local_vars_identified\x64\Release\local_vars_identified.exe

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_18\samples\combined_exp_types_cb\combined_exp_types_cb.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_18\samples\combined_exp_types_cb\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\yurem\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_18\samples\combined_exp_types_cb\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_18\samples\combined_exp_types_cb\Project1PCH1.h=C:\Users\yurem\OneDrive\Документы\Хакер\Хакер_Крис_18\samples\combined_exp_types_cb\combined_exp_types_cbPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
